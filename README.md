@@ -1,6 +1,6 @@
 
-# Proyecto Storytelling (template): 
-### my_storytelling
+# Proyecto Storytelling: 
+Pedrito y Pablito
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 
@@ -10,27 +10,25 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Héctor Mínguez Ruiz
+- :man: Carlos Martínez Guillem
 
 
 Proyecto (código): 
-URL (link) del proyecto en Github: 
+URL (link) del proyecto en Github: wdfhggggggggggggggggggggggggggggggggggggggg
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 
 
 ## Resumen
+Pedrito y Pablito se van a pasar el finde a un cortijo alejado de la civilización, pero al llegar Pedrito se da cuenta que ha perdido el único mechero que tenía. Ahora, las vacaciones se volverán un infierno para Pablito, quien tendrá que ayudar a su amigo a poder fumar, o no...
 
-
-### Personaje
-
+### Personajes
 
 ![](img-nobody.png)
 
