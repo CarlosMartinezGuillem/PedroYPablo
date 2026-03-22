@@ -1,6 +1,6 @@
 
 # Proyecto Storytelling: 
-Pedrito y Pablito
+## Pedrito y Pablito
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 
@@ -30,22 +30,36 @@ Pedrito y Pablito se van a pasar el finde a un cortijo alejado de la civilizaci�
 
 ### Personajes
 
-![](img-nobody.png)
-
-Nombre: 
+<img width="1702" height="644" alt="psjs" src="https://github.com/user-attachments/assets/6287303a-eb19-4bd9-b436-436a0f9f862d" />
 
 
-NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
-* hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
 
 ### Historia
+La historia comienza con los dos amigos llegando al cortijo, a 100km de la civilización. El ambiente es idílico, pero la paz se rompe en el segundo uno: Pedrito, en su habitual despiste, se palpa los bolsillos del pijama azul y entra en pánico. Ha perdido el mechero.
+
+Pablito, fiel a su personalidad de ver el lado bueno, intenta calmarlo: "Disfruta del aire puro, tío. Es la señal que necesitabas para dejarlo". Pedrito no lo ve así; su nerviosismo empieza a escalar, transformando el fin de semana en una búsqueda frenética por cada rincón de la casa.
+
+Pasan las horas y Pedrito está fuera de sí. Pablito observa con tristeza cómo su "mejor amigo" solo puede pensar en el tabaco, ignorando las fotos de sus otros amigos que han llevado y los planes que tenían.
+
+De repente, Pedrito encuentra una solución técnica: una vieja lupa de aumento en un cajón del salón. Su plan es usar la luz del sol del atardecer para prender una rama y, con ella, su cigarrillo. Es una posibilidad entre un millón, pero es su única salvación.
+
+Pedrito sale al patio, coloca la lupa y espera a que el rayo de sol haga su magia. Justo cuando la rama empieza a humear, Pablito interviene. Harto de ver a su amigo reducido a un manojo de nervios por un vicio, toma una decisión drástica por "su bien": le arrebata la lupa y la estampa contra una piedra, rompiéndola en mil pedazos. El sol se pone tras la montaña; ya no hay luz, ni lupa, ni fuego. En ese momento, Pedrito comienza a perseguir a Pablito y este intenta escapar.
+<img width="667" height="412" alt="{A0F9BB1B-D3A3-40F4-B864-20B25C9BFC36}" src="https://github.com/user-attachments/assets/681e04c2-4b60-48a2-9639-5c77911e4870" />
+
+
+
+
+La frustración de Pedrito estalla. El síndrome de abstinencia y la rabia por la destrucción de su única vía de escape lo ciegan. Pedrito, más ágil por la adrenalina del momento, reduce a Pablito. Encuentra una cuerda en el garaje del cortijo y, en un arranque de locura, lo sienta en una silla de madera y lo amarra con fuerza, pero Pablito consiguió escapar y se fué del cortijo. Nadie supo más de el.
+<img width="692" height="587" alt="{18EACBD8-AF09-45A9-A082-9DBB198897BF}" src="https://github.com/user-attachments/assets/9fadc4af-ae1b-4d63-8908-be749a7c915d" />
+
+
 
 
 ### TagLine
-
+Sin mechero a 100 kilometros de la civilización.
 
 ### Conflicto 
-
+Pedrito quiere fumar 
 
 ### Productos
 
