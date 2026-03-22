@@ -44,6 +44,7 @@ Pasan las horas y Pedrito está fuera de sí. Pablito observa con tristeza cómo
 De repente, Pedrito encuentra una solución técnica: una vieja lupa de aumento en un cajón del salón. Su plan es usar la luz del sol del atardecer para prender una rama y, con ella, su cigarrillo. Es una posibilidad entre un millón, pero es su única salvación.
 
 Pedrito sale al patio, coloca la lupa y espera a que el rayo de sol haga su magia. Justo cuando la rama empieza a humear, Pablito interviene. Harto de ver a su amigo reducido a un manojo de nervios por un vicio, toma una decisión drástica por "su bien": le arrebata la lupa y la estampa contra una piedra, rompiéndola en mil pedazos. El sol se pone tras la montaña; ya no hay luz, ni lupa, ni fuego. En ese momento, Pedrito comienza a perseguir a Pablito y este intenta escapar.
+
 <img width="548" height="404" alt="{70D866F5-64A5-42AC-9CDD-1DD401DB7458}" src="https://github.com/user-attachments/assets/4605f224-ba14-4a40-8991-32f70039832f" />
 <img width="667" height="412" alt="{A0F9BB1B-D3A3-40F4-B864-20B25C9BFC36}" src="https://github.com/user-attachments/assets/681e04c2-4b60-48a2-9639-5c77911e4870" />
 
