@@ -15,7 +15,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 
 Proyecto (código): 
-URL (link) del proyecto en Github: wdfhggggggggggggggggggggggggggggggggggggggg
+URL (link) del proyecto en Github: (https://github.com/CarlosMartinezGuillem/PedroYPablo.git)
 
 
 Tipo/Género:  
@@ -44,12 +44,15 @@ Pasan las horas y Pedrito está fuera de sí. Pablito observa con tristeza cómo
 De repente, Pedrito encuentra una solución técnica: una vieja lupa de aumento en un cajón del salón. Su plan es usar la luz del sol del atardecer para prender una rama y, con ella, su cigarrillo. Es una posibilidad entre un millón, pero es su única salvación.
 
 Pedrito sale al patio, coloca la lupa y espera a que el rayo de sol haga su magia. Justo cuando la rama empieza a humear, Pablito interviene. Harto de ver a su amigo reducido a un manojo de nervios por un vicio, toma una decisión drástica por "su bien": le arrebata la lupa y la estampa contra una piedra, rompiéndola en mil pedazos. El sol se pone tras la montaña; ya no hay luz, ni lupa, ni fuego. En ese momento, Pedrito comienza a perseguir a Pablito y este intenta escapar.
+<img width="548" height="404" alt="{70D866F5-64A5-42AC-9CDD-1DD401DB7458}" src="https://github.com/user-attachments/assets/4605f224-ba14-4a40-8991-32f70039832f" />
 <img width="667" height="412" alt="{A0F9BB1B-D3A3-40F4-B864-20B25C9BFC36}" src="https://github.com/user-attachments/assets/681e04c2-4b60-48a2-9639-5c77911e4870" />
 
+La frustración de Pedrito estalla. El síndrome de abstinencia y la rabia por la destrucción de su única vía de escape lo ciegan. Pedrito, más ágil por la adrenalina del momento, reduce a Pablito. Encuentra una cuerda en el garaje del cortijo y, en un arranque de locura, lo sienta en una silla de madera y lo amarra con fuerza.
 
+<img width="636" height="503" alt="{3F469E81-EDF6-4CC5-9988-7EA723A4F43C}" src="https://github.com/user-attachments/assets/4a7468ff-7b4d-4a8a-bfad-b99c4192ec6d" />
 
+No obstante, Pablito consiguió escapar y se fué del cortijo corriendo sin mirar atrás. Nadie supo más de el.
 
-La frustración de Pedrito estalla. El síndrome de abstinencia y la rabia por la destrucción de su única vía de escape lo ciegan. Pedrito, más ágil por la adrenalina del momento, reduce a Pablito. Encuentra una cuerda en el garaje del cortijo y, en un arranque de locura, lo sienta en una silla de madera y lo amarra con fuerza, pero Pablito consiguió escapar y se fué del cortijo. Nadie supo más de el.
 <img width="692" height="587" alt="{18EACBD8-AF09-45A9-A082-9DBB198897BF}" src="https://github.com/user-attachments/assets/9fadc4af-ae1b-4d63-8908-be749a7c915d" />
 
 
@@ -59,22 +62,27 @@ La frustración de Pedrito estalla. El síndrome de abstinencia y la rabia por l
 Sin mechero a 100 kilometros de la civilización.
 
 ### Conflicto 
-Pedrito quiere fumar 
+Pedrito quiere fumar, pero no puede porque no tiene mechero.
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personajes: PEDRITO
 
+<img width="432" height="576" alt="WhatsApp_Image_2026-03-22_at_19 00 36-removebg-preview" src="https://github.com/user-attachments/assets/d7c4b5ff-0a1c-4382-84f6-145650162b20" />
 
-- Banner/Teaser:  (enlace) 
+- Personajes: PABLITO
 
+<img width="577" height="433" alt="WhatsApp_Image_2026-03-22_at_21 28 11-removebg-preview" src="https://github.com/user-attachments/assets/769708d9-7c90-4a03-84e3-f6312d813428" />
 
-- Storytelling: (enlace) 
-
-
+ 
 
 
 ### Conclusiones/Valoración del equipo
+Esta práctica ha resultado enriquecedora a nivel creativo ya que nos ha permitido desarrollar personajes que nos hacían gracia y construir una pequeña narrativa a partir de un conflicto sencillo, la pelea por un mechero. A partir de esta premisa cotidiana, hemos conseguido explorar aspectos más complejos como la amistad, la dependencia y las diferencias de personalidad, lo que demuestra cómo una simple idea puede dar lugar a una historia con múltiples matices.
+
+El hecho de plantear un conflicto y pensar en cómo se desarrolla en un entorno concreto añade una capa narrativa muy interesante y abre la puerta a futuras ramificaciones interactivas. Por ejemplo, en nuestro caso, un cortijo alejado de la civilización. 
+
+Para finalizar queremos mencionar que, aunque el uso de estas herramientas sea algo complejo de primeras, reconocemos que tiene muchas posibilidades de expandir cualquier idea creativamente y comercialmente.
 
 
 
