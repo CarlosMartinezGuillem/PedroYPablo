@@ -28,33 +28,38 @@ Tipo/Género:
 ## Resumen
 Pedrito y Pablito se van a pasar el finde a un cortijo alejado de la civilización, pero al llegar Pedrito se da cuenta que ha perdido el único mechero que tenía. Ahora, las vacaciones se volverán un infierno para Pablito, quien tendrá que ayudar a su amigo a poder fumar, o no...
 
-### Personajes
+### Personajes]
 
-<img width="1702" height="644" alt="psjs" src="https://github.com/user-attachments/assets/6287303a-eb19-4bd9-b436-436a0f9f862d" />
+<img width="1721" height="646" alt="{E46A4003-848E-4933-891C-49A93AE28CB2}" src="https://github.com/user-attachments/assets/79bb78eb-846b-4403-8be3-bbfa2158e4ef" />
+
 
 
 
 ### Historia
 La historia comienza con los dos amigos llegando al cortijo, a 100km de la civilización. El ambiente es idílico, pero la paz se rompe en el segundo uno: Pedrito, en su habitual despiste, se palpa los bolsillos del pijama azul y entra en pánico. Ha perdido el mechero.
 
+<img width="640" height="310" alt="{BBCCA775-04C0-4623-8567-04145B553605}" src="https://github.com/user-attachments/assets/9c32db30-d9db-4568-a957-39072e6d23b5" />
+
 Pablito, fiel a su personalidad de ver el lado bueno, intenta calmarlo: "Disfruta del aire puro, tío. Es la señal que necesitabas para dejarlo". Pedrito no lo ve así; su nerviosismo empieza a escalar, transformando el fin de semana en una búsqueda frenética por cada rincón de la casa.
 
 Pasan las horas y Pedrito está fuera de sí. Pablito observa con tristeza cómo su "mejor amigo" solo puede pensar en el tabaco, ignorando las fotos de sus otros amigos que han llevado y los planes que tenían.
 
+<img width="625" height="312" alt="{C13BAEED-C7FD-44E1-AF34-005C59F908F1}" src="https://github.com/user-attachments/assets/0ba19db5-ef4c-4370-ad1d-23bf7924cf59" />
+
 De repente, Pedrito encuentra una solución técnica: una vieja lupa de aumento en un cajón del salón. Su plan es usar la luz del sol del atardecer para prender una rama y, con ella, su cigarrillo. Es una posibilidad entre un millón, pero es su única salvación.
+
+<img width="592" height="300" alt="{00C2E636-8304-43EA-BDFE-40F8F4951A75}" src="https://github.com/user-attachments/assets/4e85e7b7-16ac-4804-ac10-1aab38e91654" />
+
 
 Pedrito sale al patio, coloca la lupa y espera a que el rayo de sol haga su magia. Justo cuando la rama empieza a humear, Pablito interviene. Harto de ver a su amigo reducido a un manojo de nervios por un vicio, toma una decisión drástica por "su bien": le arrebata la lupa y la estampa contra una piedra, rompiéndola en mil pedazos. El sol se pone tras la montaña; ya no hay luz, ni lupa, ni fuego. En ese momento, Pedrito comienza a perseguir a Pablito y este intenta escapar.
 
-<img width="548" height="404" alt="{70D866F5-64A5-42AC-9CDD-1DD401DB7458}" src="https://github.com/user-attachments/assets/4605f224-ba14-4a40-8991-32f70039832f" />
-<img width="667" height="412" alt="{A0F9BB1B-D3A3-40F4-B864-20B25C9BFC36}" src="https://github.com/user-attachments/assets/681e04c2-4b60-48a2-9639-5c77911e4870" />
+<img width="635" height="309" alt="{8B7F14CA-B2CF-4B17-A0F6-EA164F2AB20D}" src="https://github.com/user-attachments/assets/1c4f8b43-7278-44fc-8a73-643d9c3a0873" />
 
-La frustración de Pedrito estalla. El síndrome de abstinencia y la rabia por la destrucción de su única vía de escape lo ciegan. Pedrito, más ágil por la adrenalina del momento, reduce a Pablito. Encuentra una cuerda en el garaje del cortijo y, en un arranque de locura, lo sienta en una silla de madera y lo amarra con fuerza.
+La frustración de Pedrito estalla. El síndrome de abstinencia y la rabia por la destrucción de su única vía de escape lo ciegan. Pedrito, más ágil por la adrenalina del momento, reduce a Pablito. Encuentra una cuerda en el garaje del cortijo y, en un arranque de locura, lo sienta en una silla de madera y lo amarra con fuerza, pero pablo consigue escapar del cortijo, perdiendose enmedio del bosque.
 
-<img width="636" height="503" alt="{3F469E81-EDF6-4CC5-9988-7EA723A4F43C}" src="https://github.com/user-attachments/assets/4a7468ff-7b4d-4a8a-bfad-b99c4192ec6d" />
+<img width="509" height="306" alt="{F8E39418-60D8-4D0F-9401-FAF27CFAE78D}" src="https://github.com/user-attachments/assets/5cface86-8977-4a59-9973-dc0e04b22234" />\
 
-No obstante, Pablito consiguió escapar y se fué del cortijo corriendo sin mirar atrás. Nadie supo más de el.
-
-<img width="692" height="587" alt="{18EACBD8-AF09-45A9-A082-9DBB198897BF}" src="https://github.com/user-attachments/assets/9fadc4af-ae1b-4d63-8908-be749a7c915d" />
+<img width="329" height="307" alt="{FD9EF3ED-7389-46C7-A51B-FFF20B02DD42}" src="https://github.com/user-attachments/assets/c437f5d6-64ad-4301-8019-5600ebf55e23" />
 
 
 
