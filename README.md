@@ -24,8 +24,8 @@ Tipo/Género:
 - [ ] Comic
 
 Enlaces a:
-- Historia interactiva de ArcWeave ()
-- Teaser interactivo de móvil - Figma ()
+- Historia interactiva de ArcWeave (https://arcweave.com/app/project/DvlOqVy6dx)
+- Teaser interactivo de móvil - Figma (https://www.figma.com/design/kr2ExuItkrvOukpvc8RxZT/Untitled?node-id=0-1&t=4OzYOSNCcnb8NGi9-1)
 
 
 ## Resumen
